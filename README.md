@@ -1,1 +1,1 @@
-# Bioinformatics-dna-project
+By using this app, you can input a DNA sequence and quickly find out how many times each nucleotide appears in the sequence. This information can be useful for understanding the composition of DNA and analyzing genetic data.
